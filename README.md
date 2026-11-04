@@ -1,2 +1,4 @@
-# Primitive-Responsive-Website
-A very simple website that will be getting more complex as time goes on.
+# Primitive Responsive Website v1
+A very simple responsive website that will be getting more complex as time goes on.
+
+Initial creation is for both mobile0first responsive sites and to become more consistent using Git and GitHub.
